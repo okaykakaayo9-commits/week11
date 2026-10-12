@@ -5,23 +5,25 @@
 </head>
 <body>
   <h1>This is a heading</h1>
-  <p> This is a paragraph.</p>
-  <p>This is another paragraph.</p>
+    <p> This is a paragraph.</p>
+    <p>This is another paragraph.</p>
   <h2>Tour packages</h2>
-<p> We help visitor plan a batangas day trip</p>
-<h2>Tour packages</h2>
-<h3>heritage Walk </h3>
-<p><i>A sample half -day walking tour.</i></p>
-<p><strong>Bring drinking water.</strong></p>
-<p>please arrive <em> before</em>the meeting time.</
-  <ol>
+    <p> We help visitor plan a batangas day trip</p>
+  <h3>heritage Walk </h3>
+    <p><i>A sample half -day walking tour.</i></p>
+  <h3> Things to bring</h3>  
+   <ul>
       <li>Walking shoes</li>
       <li>Drinking water</li>
       <li>Hat</li>
-</ol>
-
-<a href="#contact">ask about a tour</a>
-<br>
+   </ul>
+  <h3>Steps to Book a Tour</h3>
+    <ol>
+    <li>Choose a Tour</li>
+    <li>Review the details</li>
+    <li>Complete the demo enquiry</li>
+  <a href="#contact">ask about a tour</a>
+  <br>
  <section id="contact">
      <h2>Contact</h2>
      </section>
